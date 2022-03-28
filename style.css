@@ -70,6 +70,7 @@ li {
 
 .related {
   list-style: none;
+  display: block;
 }
 
 .main-header {
